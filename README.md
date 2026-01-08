@@ -32,5 +32,5 @@ Folder
 
 ### 1) Clone the repo
 ```bash
-git clone https://github.com/<ySV-Cookie>/<yPomodoro-timer-4-me-with-streamlit>.git
+git clone https://github.com/SV-Cookie/Pomodoro-timer-4-me-with-streamlit.git
 cd  Pomodoro-timer-4-me-with-streamlit
